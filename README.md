@@ -1,4 +1,4 @@
-# Merhaba, Ben Mertilhan! :wave:
+# Merhaba, Ben Mert ilhan! :wave:
 
 ![](https://komarev.com/ghpvc/?username=mertilhans&color=blue&style=flat-square&label=Profil+Ziyareti)
 
