@@ -1,10 +1,10 @@
 # Merhaba, Ben Mert ilhan! :wave:
 
-![](https://komarev.com/ghpvc/?username=mertilhans&color=blue&style=flat-square&label=Profil+Ziyareti)
+![](https://komarev.com/ghpvc/?username=itsmertilhan&color=blue&style=flat-square&label=Profil+Ziyareti)
 
 Aktif olarak **C** ve **Python** dillerinde yazılım geliştiren bir yazılım geliştiricisiyim. **GitHub** profilimdeki projelerime göz atarak benim hakkımda daha fazla bilgi edinebilirsiniz.
 
-[**Portfolyo Web Sitem**](https://mertilhans.github.io/portfolio)
+[**Portfolyo Web Sitem**](https://mertilhan.dev)
 
 
 ## :rocket: Kullanılan Teknolojiler
